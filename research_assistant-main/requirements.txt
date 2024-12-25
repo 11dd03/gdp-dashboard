@@ -1,0 +1,10 @@
+modelscope
+transformers
+torch
+numpy
+pypdf
+langchain
+langchain_community
+langchain_huggingface
+streamlit==1.24.0
+faiss-gpu
